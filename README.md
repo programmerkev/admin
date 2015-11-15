@@ -1,4 +1,4 @@
-## Laravel 5 Admin Module
+## Laravel 5 Admin Module test
 
 [![Latest Stable Version](https://poser.pugx.org/sleeping-owl/admin/v/stable.svg)](https://packagist.org/packages/sleeping-owl/admin)
 [![License](https://poser.pugx.org/sleeping-owl/admin/license.svg)](https://packagist.org/packages/sleeping-owl/admin)
